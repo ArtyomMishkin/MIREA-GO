@@ -44,7 +44,11 @@ go run ./cmd/server
 
 ## Команда сборки
 Для сборки бинарника и запуска .exe файла используются данные программы
-<img width="611" height="44" alt="image" src="https://github.com/user-attachments/assets/5954bcda-fbe5-47a7-8e9c-6091f59d4cff" />
+
+```Powershell
+go build -o helloapi.exe ./cmd/server
+.\helloapi.exe
+```
 
 # Примечания по конфигурации и требования
 
