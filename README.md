@@ -96,7 +96,7 @@ curl http://localhost:8081/health
 
 <img width="901" height="366" alt="image" src="https://github.com/user-attachments/assets/ac482412-9e5b-42aa-be16-1fdaa5002949" />
 
-###Ссылка на репозиторий:
+### Ссылка на репозиторий:
 
 >https://github.com/ArtyomMishkin/MIREA-GO
 
